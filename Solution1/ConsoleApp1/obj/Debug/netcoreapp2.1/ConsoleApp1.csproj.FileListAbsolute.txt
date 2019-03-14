@@ -1,0 +1,11 @@
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.deps.json
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.json
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfo.cs
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/andreytatarchenkov/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.pdb
